@@ -1,0 +1,6 @@
+{
+  "name": "HydroWatch — Smart Water Leak Detection",
+  "description": "Monitor Water. Detect Leaks. Save Every Drop. Automated leak detection, baseline deviation analysis, and investigation case workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
